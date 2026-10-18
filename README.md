@@ -8,3 +8,4 @@ Sitio web estático (un solo archivo, sin build) para The Hunt Burgers and Fries
 
 ## Pendiente de confirmar con el negocio
 - Precios (tomados de plataformas de reparto) y horario (2:30 p. m. a 9:30 p. m.).
+Sitio web de The Hunt.
